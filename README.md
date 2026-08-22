@@ -11,7 +11,7 @@ investigate security events in a controlled environment.
 ## Objectives
 
 - Practice security monitoring
-- Analyze Windows security logs
+- Analyze security logs
 - Learn SIEM concepts
 - Investigate security alerts
 - Practice incident response
@@ -20,7 +20,6 @@ investigate security events in a controlled environment.
 ## Technologies
 
 - Wazuh
-- Windows
 - Linux
 - VirtualBox
 - SIEM
